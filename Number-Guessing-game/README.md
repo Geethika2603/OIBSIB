@@ -36,14 +36,9 @@ Guess the number
 Receive hints (Too High / Too Low)  
 Win or lose based on attempts  
 ## Screenshots
-### Home Screen  
-![Home Screen](Number-Guessing-game/screenshots/number guessing -home.png)
 
-### Input Screen  
-![Input Screen](Number-Guessing-game/screenshots/number guessing-input.png)
-
-### Win Screen  
-![Win Screen](Number-Guessing-game/screenshots/number guessing -win.png)
+### home Screen
+![home Screen](screenshots/number guessing -home.png)
 ## Future Improvements
 - GUI version using Java Swing or JavaFX  
 - Online leaderboard system  
