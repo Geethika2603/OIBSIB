@@ -38,13 +38,13 @@ Win or lose based on attempts
 ## Screenshots
 
 ### Home Screen  
-![Home Screen](screenshots/number guessing -home.png)
+![Home Screen](Number-Guessing-game/screenshots/number guessing -home.png)
 
 ### Input Screen  
-![Input Screen](screenshots/number guessing-input.png)
+![Input Screen](Number-Guessing-game/screenshots/number guessing-input.png)
 
 ### Win Screen  
-![Win Screen](screenshots/number guessing -win.png)
+![Win Screen](Number-Guessing-game/screenshots/number guessing -win.png)
 ## Future Improvements
 - GUI version using Java Swing or JavaFX  
 - Online leaderboard system  
