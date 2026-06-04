@@ -36,7 +36,6 @@ Guess the number
 Receive hints (Too High / Too Low)  
 Win or lose based on attempts  
 ## Screenshots
-
 ### Home Screen  
 ![Home Screen](Number-Guessing-game/screenshots/number guessing -home.png)
 
